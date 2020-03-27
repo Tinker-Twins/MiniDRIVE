@@ -14,4 +14,4 @@ The software applications used to control the robot are listed below:
 3. [PuTTY](https://www.putty.org)
 4. [MiniDRIVE GUI](https://github.com/Samak-Twins/MiniDRIVE/blob/master/Software/MiniDrive%20GUI/MiniDRIVE_GUI.pde)
 
-Demonstration video available on [YouTube](https://www.youtube.com/watch?v=Rbxxlpjfh9E).
+Demonstration video is available on [YouTube](https://www.youtube.com/watch?v=Rbxxlpjfh9E).
