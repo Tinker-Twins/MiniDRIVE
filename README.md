@@ -1,2 +1,1 @@
-# MiniDRIVE
-MiniDRIVE | A Teleoperated Mobile Robot
+# MiniDRIVE | A Teleoperated Mobile Robot
